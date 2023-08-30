@@ -1,5 +1,5 @@
 M Muskrat
 N Newt
-O Onager (change on line 3)
+O Owl
 P Panda
-T Tapir (change on line 5)
+T Tiger
